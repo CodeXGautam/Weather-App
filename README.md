@@ -1,0 +1,1 @@
+This file contains a weather web app. You can search any place weather(temperature, humidity, wind speed,..) from just city name.In this I have used html, css and javascript and for weather data, I have used a free weather api.
