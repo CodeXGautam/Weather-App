@@ -42,27 +42,27 @@ async function fetchdata(city){
         let image = document.querySelector('.img img');
 
         if(output.weather[0].main == "Clear"){
-            image.src="images/clear.png";
+            image.src="clear.png";
         }
 
         else if(output.weather[0].main == "Clouds"){
-            image.src="images/clouds.png";
+            image.src="clouds.png";
         }
 
         else if(output.weather[0].main == "Rain"){
-            image.src="images/rain.png";
+            image.src="rain.png";
         }
 
         else if(output.weather[0].main == "Mist"){
-            image.src="images/mist.png";
+            image.src="mist.png";
         }
 
         else if(output.weather[0].main == "Snow"){
-            image.src="images/snow.png";
+            image.src="snow.png";
         }
 
         else{
-            image.src="images/drizzle.png";
+            image.src="drizzle.png";
         }
 
     }
