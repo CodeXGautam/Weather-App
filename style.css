@@ -102,6 +102,7 @@ body{
     justify-content: space-between;
     font-family: "Poppins", sans-serif;
     margin: .8rem;
+    gap: 1.5rem;
 }
 
 .more-info img{
