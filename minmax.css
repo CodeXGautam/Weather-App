@@ -1,0 +1,45 @@
+.img img{
+    width: 150px;
+    height: 150px;
+}
+
+.more-info img{
+    width: 30px;
+    height: 30px;
+}
+
+.humidity{
+    font-size: .8rem;
+    font-weight: 400;
+}
+
+.wind-speed{
+    font-size: .8rem;
+    font-weight: 400;
+}
+
+.box1 p{
+    font-size: 10px;
+}
+
+.box2 p{
+    font-size: 10px;
+}
+
+.temp{
+    font-size: 4rem;
+}
+
+.city-name{
+    font-size: 2rem;
+}
+
+.card input{
+    font-size: 14px;
+    width: 50%;
+}
+
+.input-box svg{
+    width: 15px;
+    height: 15px;
+}

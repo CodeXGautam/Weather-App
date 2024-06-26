@@ -1,0 +1,22 @@
+.more-info img{
+    width: 30px;
+    height: 30px;
+}
+
+.humidity{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.wind-speed{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.box1 p{
+    font-size: 12px;
+}
+
+.box2 p{
+    font-size: 12px;
+}
