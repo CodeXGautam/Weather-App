@@ -27,7 +27,7 @@ body{
     flex-wrap: wrap;
     gap: 1rem;
     padding: 2rem;
-    width: 35%;
+    width: max-content;
     display: none;
 }
 
